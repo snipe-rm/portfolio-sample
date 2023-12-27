@@ -28,6 +28,11 @@ margin-bottom: 10px;
 color: #025e2a;
 }
 }
+.profile {
+.header>h1 {
+color: #5e0236;
+}
+}
 .gnav {
 width: 100%;
 height: auto;
